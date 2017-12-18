@@ -2,7 +2,7 @@
 
 namespace IndianGardenz.Manager.Xml
 {
-    public class Class1
+    public class XmlDataManager
     {
     }
 }
