@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianGardenz.Data.Xml", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianGardenz.Manager.Xml", "IndianGardenz.Manager.Xml\IndianGardenz.Manager.Xml.csproj", "{581C66AF-3311-472C-AE44-F490702C02C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianGardenz.IData.IXml", "IndianGardenz.IData.IXml\IndianGardenz.IData.IXml.csproj", "{C5271687-E8D3-41FA-81A2-2593739BCFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianGardenz.IManager.IXml", "IndianGardenz.IManager.IXml\IndianGardenz.IManager.IXml.csproj", "{314F82D0-4586-4B90-BD7C-49CDF91E1D2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{581C66AF-3311-472C-AE44-F490702C02C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{581C66AF-3311-472C-AE44-F490702C02C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{581C66AF-3311-472C-AE44-F490702C02C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5271687-E8D3-41FA-81A2-2593739BCFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5271687-E8D3-41FA-81A2-2593739BCFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5271687-E8D3-41FA-81A2-2593739BCFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5271687-E8D3-41FA-81A2-2593739BCFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314F82D0-4586-4B90-BD7C-49CDF91E1D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314F82D0-4586-4B90-BD7C-49CDF91E1D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314F82D0-4586-4B90-BD7C-49CDF91E1D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314F82D0-4586-4B90-BD7C-49CDF91E1D2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
